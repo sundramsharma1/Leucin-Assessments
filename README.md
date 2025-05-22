@@ -39,21 +39,23 @@
 | **DevOps**    | GitHub, GitHub Pages (for frontend) |
 
 ## 📂 Project Structure
+```text
 luciene-assessments/
-├── backend/ # Backend server code
-│ ├── controllers/ # Business logic
-│ ├── db/ # Database configuration
-│ ├── routes/ # API endpoints
-│ ├── server.js # Main server file
-│ └── package.json # Backend dependencies
-├── frontend/ # React application
-│ ├── public/ # Static assets
-│ ├── src/ # React components
-│ ├── package.json # Frontend dependencies
-│ └── README.md # Frontend docs
-├── .gitignore # Git exclusion rules
-└── README.md # Project documentation (you are here)
+├── backend/              
+│   ├── controllers/      
+│   ├── db/               
+│   ├── routes/           
+│   ├── server.js         
+│   └── package.json      
+├── frontend/             
+│   ├── public/           
+│   ├── src/              
+│   ├── package.json      
+│   └── README.md         
+├── .gitignore            
+└── README.md             
 
+```
 ## 🚀 Getting Started
 
 ### Prerequisites
