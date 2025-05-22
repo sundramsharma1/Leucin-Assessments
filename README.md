@@ -3,6 +3,8 @@
 ![Project Banner](https://github.com/sundramsharma1/Leucin-Assessments/blob/master/Poster.PNG)  
 *A full-stack todo app with AI-powered task summarization*
 
+---
+
 [![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-todosummaryassist.netlify.app-brightgreen?style=for-the-badge)](https://todosummaryassist.netlify.app/)
 
 ---
