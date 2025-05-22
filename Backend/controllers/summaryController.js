@@ -58,7 +58,7 @@ const generateLLMSummary = async (todos) => {
     const todoList = todos.map(t => `- ${t.task}`).join('\n');
     
     const prompt = `
-      Summarize these pending tasks in a professional tone:
+      Summarize these pending tasks in a professional tone without any preamble:
       - Keep it under 2 sentences
       
       Todos:
