@@ -1,6 +1,6 @@
 # 📝 Luciene Assessments - Smart Todo Application
 
-![Project Banner](frontend/public/banner.png)  
+![Project Banner](https://github.com/sundramsharma1/Leucin-Assessments/blob/master/Poster.PNG)  
 *A full-stack todo app with AI-powered task summarization*
 
 ## 🌟 Features
